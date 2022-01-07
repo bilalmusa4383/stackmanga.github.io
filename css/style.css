@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+.manga{ 
+    padding: 50px 50px 50px 50px;
+}
+
+.manga h5{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-size: x-large;
+}
+
+
+.manga img{
+    width:100%;
+    height: auto;
+}
+
+.manga a{
+    text-decoration: none;
+    color: #151515;
+}
+
+.manga a h6{
+    font-weight: bold;
+}
+
+
+
+.manga a h6:hover{
+    color: #FFF01F;
+    transition: 0.25s;
+}
+
+.manga a p{
+    font-size: small;
+}
+
+.nav-bg{
+    background-color: #FFF01F !important;
+    
+}
+
+.navbar-brand{
+    color: #000;
+}
+
+.nav-item a{
+    color: #151515 !important;
+}
+
+
+#footer{
+    padding: 50px 50px 10px 50px;
+    background-color: #FFF01F;
+    color: #151515;
+}
+
+
+
+#footer a{
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+#footer ul{
+    list-style: none;
+}
+
+#footer .links li{
+    display: inline;
+    padding-right: 15px;
+    font-size: 12px;
+    
+} 
+
+#footer .links a{
+    color: #151515;
+}
+
+
+#footer .links ul h6{
+    padding-bottom: 20px;
+}
+
+#footer .credits{
+    font-size: x-small;
+    color: #151515;
+}
+
+#footer .terms{
+    font-size: small;
+}
